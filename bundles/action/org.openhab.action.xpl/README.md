@@ -4,7 +4,7 @@ This add-on provides xPL message sending on the network.
 
 ## Actions
 
-- `sendxPLMessage(String target, String msgType, String msgClass, String bodyLine1, String bodyLine2 ...)` : Sends a message over the xPL network.
+*   `sendxPLMessage(String target, String msgType, String msgClass, String bodyLine1, String bodyLine2 ...)` : Sends a message over the xPL network.
 
 Parameters shall follow xPL message elements syntax.
 
